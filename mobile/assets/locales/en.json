@@ -1,0 +1,24 @@
+{
+  "tabs": {
+    "home": "Home",
+    "weather": "Weather",
+    "shc": "SHC",
+    "crops": "Crops",
+    "market": "Market",
+    "help": "Help"
+  },
+  "home": {
+    "title": "Home",
+    "welcome": "Welcome to the Farmer App"
+  },
+  "weather": { "title": "Weather" },
+  "shc": { "title": "Soil Health Card" },
+  "crops": { "title": "Crops" },
+  "market": { "title": "Market" },
+  "help": { "title": "Help" },
+  "language": {
+    "title": "Language",
+    "select_label": "Select your language",
+    "change_button": "Change Language"
+  }
+}

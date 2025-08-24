@@ -1,0 +1,24 @@
+{
+  "tabs": {
+    "home": "హోమ్",
+    "weather": "వాతావరణం",
+    "shc": "SHC",
+    "crops": "పంటలు",
+    "market": "బజార్",
+    "help": "సహాయం"
+  },
+  "home": {
+    "title": "హోమ్",
+    "welcome": "రైతు యాప్‌కు స్వాగతం"
+  },
+  "weather": { "title": "వాతావరణం" },
+  "shc": { "title": "మట్టి ఆరోగ్య కార్డు" },
+  "crops": { "title": "పంటలు" },
+  "market": { "title": "బజార్" },
+  "help": { "title": "సహాయం" },
+  "language": {
+    "title": "భాష",
+    "select_label": "మీ భాషను ఎంచుకోండి",
+    "change_button": "భాషను మార్చండి"
+  }
+}

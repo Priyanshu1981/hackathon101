@@ -1,0 +1,24 @@
+{
+  "tabs": {
+    "home": "होम",
+    "weather": "मौसम",
+    "shc": "एसएचसी",
+    "crops": "फसलें",
+    "market": "बाज़ार",
+    "help": "सहायता"
+  },
+  "home": {
+    "title": "होम",
+    "welcome": "किसान ऐप में आपका स्वागत है"
+  },
+  "weather": { "title": "मौसम" },
+  "shc": { "title": "मृदा स्वास्थ्य कार्ड" },
+  "crops": { "title": "फसलें" },
+  "market": { "title": "बाज़ार" },
+  "help": { "title": "सहायता" },
+  "language": {
+    "title": "भाषा",
+    "select_label": "अपनी भाषा चुनें",
+    "change_button": "भाषा बदलें"
+  }
+}
