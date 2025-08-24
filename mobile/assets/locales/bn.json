@@ -1,0 +1,24 @@
+{
+  "tabs": {
+    "home": "হোম",
+    "weather": "আবহাওয়া",
+    "shc": "SHC",
+    "crops": "ফসল",
+    "market": "বাজার",
+    "help": "সহায়তা"
+  },
+  "home": {
+    "title": "হোম",
+    "welcome": "কৃষক অ্যাপে স্বাগতম"
+  },
+  "weather": { "title": "আবহাওয়া" },
+  "shc": { "title": "মাটি স্বাস্থ্য কার্ড" },
+  "crops": { "title": "ফসল" },
+  "market": { "title": "বাজার" },
+  "help": { "title": "সহায়তা" },
+  "language": {
+    "title": "ভাষা",
+    "select_label": "আপনার ভাষা নির্বাচন করুন",
+    "change_button": "ভাষা পরিবর্তন করুন"
+  }
+}
